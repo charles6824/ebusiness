@@ -1,0 +1,111 @@
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.nav-link{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: cursive;
+    
+}
+.e{
+    color: rgb(98, 202, 243);
+    font-size: 1.8rem;
+    font-weight: 500;
+    font-family: cursive;
+}
+.business{
+    font-size: 2rem;
+    color: #fff;
+    font-weight: bold;
+    font-family: cursive;
+}
+.tt{
+    background: rgb(216, 213, 213);
+}
+.ttt{
+    background: rgb(168, 167, 167);
+}
+.active{
+    color:rgb(98, 202, 243);
+}
+.nav-link:hover{
+    color: #87ceeb;
+}
+.dropdown-menu{
+    cursor: pointer;
+    background: rgba(122, 119, 119, 0.5);
+    color: #fff;
+    font-family: Algerian;
+    font-weight: 500;
+}
+.dropdown-menu:hover{
+    color: rgb(98, 202, 243);
+}
+.carousel-item {
+    height: 30rem;
+}
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 30rem;
+}
+.carousel-caption {
+    bottom: 8rem;
+}
+
+.btn-custom{
+    background: rgb(98, 202, 243);
+    color: #fff;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.btn-custom2{
+    background: inherit;
+    color: #fff;
+    font-family: cursive;
+    border-radius: 20px;
+    border: 1px solid rgba(178, 219, 238, 0.5);
+}
+.carousel-control-next-icon{
+    border-radius: 50%;
+    border: 2px solid rgb(98, 202, 243);
+    padding: 15px;
+}
+.carousel-control-prev-icon{
+    border-radius: 100%;
+    border: 2px solid rgb(98, 202, 243);
+    padding: 15px;
+}
+/* END OF SLIDER */
+.underline{
+    height: 3px;
+    width: 70px;
+    background: rgb(44, 42, 42);
+}
+.jumbo{
+    background: rgb(245, 244, 244);
+}
+.mycheck{
+    color: rgb(98, 202, 243);
+}
+.black{
+    color: #000;
+}
+.mycode{
+    font-size: 3rem;
+    color: rgb(180, 173, 173);
+}
+.mycode1{
+    color:  rgb(98, 202, 243);
+    font-size: 3rem;
+}
+.foot{
+    font-family: cursive;
+}
+.curs{
+    font-family: cursive;
+}
